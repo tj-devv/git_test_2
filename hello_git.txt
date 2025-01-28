@@ -1,0 +1,14 @@
+Testing everthing I have learnt on how to clone and push code from the terminal using git commands
+
+The steps include;
+
+Creating a new public repo on Github and copying the SSH
+using "git clone + SSH" to clone the repo locally
+using "touch + filename.ext" to create file from terminal
+using "code ." to open VScode inside the current directory
+using "git status" to see what files have actions to be taken
+using "git add + filename.ext" or "git add ." to add all changed files to be committed
+using "git commit" (because of the change we have made, commit messages will be typed in vscode) or "git commit -m "commit message here"" to add commit messages 
+using "git push origin main" or "git push" to push the changes made locally to the Github repo
+
+Finally you can use "git log" to see the timeline of all actions carried out 
